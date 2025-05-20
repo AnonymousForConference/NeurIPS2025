@@ -1,0 +1,1 @@
+# Hybrid-Query-Strategy-with-Diversity-Weighted-Metropolis-Adjusted-Langevin-Algorithm
