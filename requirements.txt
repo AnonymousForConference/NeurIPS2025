@@ -1,5 +1,6 @@
 # pip3 install -U -r requirements.txt
 numpy
+sklearn
 scipy
-tensorflow
+tensorflow 2.7.0
 matplotlib
