@@ -13,9 +13,9 @@ pip install -r requirements.txt
 To train the model(s) in the paper, run this command:
 
 ```train
-python DWMALA10.py
-python DWMALA100.py
-python DWMALAI.py
+python3 DWMALA10.py
+python3 DWMALA100.py
+python3 DWMALAI.py
 ```
 
 ## Results
