@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Training
 
-To train the model(s) in the paper, run this command:
+To train the model(s) for CIFAR-10, CIFAR-100, and Tiny-Imagenet datasets, run these commands respectively:
 
 ```train
 python3 DWMALA10.py
@@ -20,9 +20,9 @@ python3 DWMALAI.py
 
 ## Results
 
-Our model achieves the following performance on image classification task:
+Our model achieves the following performance on the image classification task:
 
-|  Optimizer     |    CIFAR-10  |   CIFAR-100   |  Tiny-ImageNet |
+|  Dataset     |    CIFAR-10  |   CIFAR-100   |  Tiny-ImageNet |
 | ---------------|--------------|-------------- | ---------------| 
-|    RMSProp     |     80.40%   |     46.65%    |     31.13%     | 
+|    Test Accuracy     |     80.40%   |     46.65%    |     31.13%     | 
 
